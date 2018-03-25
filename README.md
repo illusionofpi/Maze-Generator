@@ -1,7 +1,10 @@
-Maze-Generator using recursive backtracking in PyGame, object oriented code for future improvement. 
 
-Planned Additions:
+# Maze Generator
 
-1: Solving Algorithms
+Maze-Generator using recursive backtracking in PyGame, object oriented code for future improvement.
 
-2: Maze Game
+## Future Work:
+
+1: Maze solving algorithms
+
+2: A proper maze solving game using PyGame
