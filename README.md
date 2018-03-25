@@ -1,4 +1,4 @@
-Maze-Generator using recursive backtracking in PyGame, object oriented python for future improvement. 
+Maze-Generator using recursive backtracking in PyGame, object oriented code for future improvement. 
 
 Planned Additions:
 
